@@ -1,3 +1,7 @@
+---
+applyTo: "assignments/**/*.md"
+---
+
 # Assignment File Guidelines
 
 This file describes the expected structure and standards for all assignment README files in this project.
