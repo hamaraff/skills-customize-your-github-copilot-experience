@@ -73,5 +73,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "ml-classifier",
+      "title": "End-to-End ML Classifier (scikit-learn)",
+      "description": "Preprocess a dataset, train classifiers, export best model, and serve predictions",
+      "path": "assignments/ml-classifier",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
+    }
   ]
 }
